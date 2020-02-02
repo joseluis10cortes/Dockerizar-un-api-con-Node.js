@@ -5,7 +5,7 @@
  
  ``docker build -t <ejemplo>/node-web-app .``
   
-## Crear contenedor y ejecutar la imagen  
+## Crear y ejecutar el contenedor  
 
  Para crear el cotenedor y a la vez ejecutarlo utilizamos el siguiente comenado:  
  
